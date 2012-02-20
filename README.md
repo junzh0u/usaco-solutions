@@ -1,0 +1,1 @@
+# Solutions of [USACO](http://ace.delos.com/usacogate)

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prime Palindromes", "Prime Palindromes\Prime Palindromes.vcproj", "{6705AEC3-07CD-4F7B-9D7B-6896A64F6ACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6705AEC3-07CD-4F7B-9D7B-6896A64F6ACB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6705AEC3-07CD-4F7B-9D7B-6896A64F6ACB}.Debug|Win32.Build.0 = Debug|Win32
+		{6705AEC3-07CD-4F7B-9D7B-6896A64F6ACB}.Release|Win32.ActiveCfg = Release|Win32
+		{6705AEC3-07CD-4F7B-9D7B-6896A64F6ACB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
